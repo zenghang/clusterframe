@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="laml-1.7.0-20180110.144508-1">
+    <CLASSES>
+      <root url="jar://D:/laml-1.7.0-20180110.144508-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/laml-1.7.0-20180110.144508-1.jar!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
